@@ -24,5 +24,5 @@
 
 
 ## ✉️ Contact me:
-[![linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/emanuel-oliveira-0a5b1b1b3/)
-[![email](https://img.shields.io/badge/-Email-212529?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:meiazero@tutanota.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/emanuel-cruz/)
+[![email](https://img.shields.io/badge/-Email-212529?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:avilaemanueel@gmail.com)
