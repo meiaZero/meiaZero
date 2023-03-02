@@ -1,7 +1,7 @@
 # Welcome, I'm Emanuel 👋
 
-![contribution](https://github-readme-stats.vercel.app/api?username=meiazero&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true&hide=stars,issues)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meiazero&layout=compact&langs_count=6&theme=dark)
+![contribution](https://github-readme-stats.vercel.app/api?username=meiazero&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true&hide=stars,issues&cache_seconds=43200)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meiazero&layout=compact&langs_count=6&theme=dark&cache_seconds=43200)
 
 
 ## 🚀 About me
